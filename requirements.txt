@@ -11,7 +11,7 @@ GitPython==3.1.45
 idna==3.10
 Jinja2==3.1.6
 MarkupSafe==3.0.3
-matplotlib==3.9.0
+matplotlib>=3.9.2,<3.11
 numpy==1.26.4
 pandas==2.3.3
 pillow>=10.2.0,<11.0.0
@@ -20,9 +20,6 @@ requests==2.32.5
 scikit-fuzzy==0.5.0
 scipy>=1.13.1,<1.14.0
 six==1.16.0
-streamlit==1.50.0
+streamlit>=1.38.0
 typing_extensions==4.15.0
 urllib3==2.5.0
-
-
-
